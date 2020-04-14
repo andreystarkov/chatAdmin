@@ -21,6 +21,6 @@
   "dependencies": {
     "mongodb": "^3.5.2",
     "nodemon": "^2.0.2",
-    "telegraf": "^3.36.0",
+    "telegraf": "^3.36.0"
   }
 }
