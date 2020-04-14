@@ -4,7 +4,8 @@
   "description": "chatAdmin",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon bot.js"
+    "test": "nodemon bot.js",
+    "start": "node bot.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,6 @@
   "dependencies": {
     "mongodb": "^3.5.2",
     "nodemon": "^2.0.2",
-    "telegraf": "^3.36.0"
+    "telegraf": "^3.36.0",
   }
 }
